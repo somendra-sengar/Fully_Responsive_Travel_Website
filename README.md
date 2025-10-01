@@ -45,12 +45,11 @@ npm run dev
 
 ## Deployment
 
-This project can be easily deployed on Vercel:
-	1.	Go to vercel.com and log in with your GitHub account.
-	2.	Click New Project and import this repository.
-	3.	Vercel auto-detects Next.js and sets the build settings.
-	4.	Deploy the project. Optionally, add a custom domain.
-	5.	Your site will be live and accessible via HTTPS.
+1. Go to [vercel.com](https://vercel.com/) and log in with your GitHub account.
+2. Click **New Project** and import this repository.
+3. Vercel auto-detects **Next.js** and sets the build settings.
+4. Deploy the project. Optionally, add a custom domain.
+5. Your site will be live and accessible via HTTPS.
 
 ⸻
 
