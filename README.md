@@ -43,7 +43,7 @@ npm run dev
 
 ⸻
 
-Deployment
+## Deployment
 
 This project can be easily deployed on Vercel:
 	1.	Go to vercel.com and log in with your GitHub account.
@@ -54,7 +54,7 @@ This project can be easily deployed on Vercel:
 
 ⸻
 
-Folder Structure
+## Folder Structure
 ```bash
 my-travel-site/
 ├── app/               # Next.js app components
